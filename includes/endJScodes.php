@@ -197,7 +197,7 @@ $.ajax({
             $('#'+pid).html('');
         }else{
             $('#'+pid).show();
-            alert('Action denied! You are not allowed to doing this action | '+done);
+            alert('Action denied! You are not allowed to doing this action');
         }
     }
 });
