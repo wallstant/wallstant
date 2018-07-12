@@ -1,0 +1,6 @@
+# Don't list directory contents
+IndexIgnore *
+
+# Secure php.ini and .htaccess
+RewriteRule ^(php\\.ini|\\.htaccess) - [NC,F]
+
