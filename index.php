@@ -21,7 +21,7 @@ include_once $path."langs/set_lang.php";
 ?>
 <html dir="<? echo lang('html_dir'); ?>">
 <head>
-    <title><? echo lang('welcome'); ?> | Wallstant</title>
+    <title><? echo lang('welcome HERE!!'); ?> | Wallstant</title>
     <meta charset="UTF-8">
     <meta name="description" content="Wallstant is a social network platform helps you meet new friends and stay connected with your family and with who you are interested anytime anywhere.">
     <meta name="keywords" content="homepage,main,login,social network,social media,Wallstant,meet,free platform">
@@ -59,7 +59,7 @@ include_once $path."langs/set_lang.php";
                 </div>
             </div>
         </div>
-        <div style="background: #fff; border-radius: 3px; max-width: 800px; padding: 15px; margin:auto;margin-top: 15px;color: #7b7b7b;" align="center">
+        <div style="background: #ffff; border-radius: 3px; max-width: 800px; padding: 15px; margin:auto;margin-top: 15px;color: #7b7b7b;" align="center">
             <? echo lang('dont_have_an_account'); ?> <a href="signup"><? echo lang('signup'); ?></a> <? echo lang('for_free'); ?>.<hr style="margin: 8px;">
                 <a href="?lang=english">English</a> &bull; <a href="?lang=العربية">العربية</a>
         </div>
