@@ -8,7 +8,7 @@
 | 1.0.0   | :x:                |
 
 
-###### We do not support the use of other plaatforms than our own, modified copies will not be supported
+# We do not support the use of other platforms than our own, modified copies will not be supported
 
 
 
