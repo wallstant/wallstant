@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-Please start an issue with the security tab
+Please start an issue with the security tag
