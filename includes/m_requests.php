@@ -361,7 +361,7 @@ $mSeen="0";
 // send message to database
 $insertM = $conn->prepare("INSERT INTO messages (m_id,message,m_from,m_to,m_time,m_seen) VALUES (:mid,:msg,:myid,:uid,:mTime,:mSeen)");
 $insertM->bindParam(':mid',$mid,PDO::PARAM_INT);
-$insertM->bindParam(':msg',$msg,PDO::PARAM_INT);
+$insertM->bindParam(':msg',$msg,PDO::PARAM_STR);
 $insertM->bindParam(':myid',$myid,PDO::PARAM_INT);
 $insertM->bindParam(':uid',$uid,PDO::PARAM_INT);
 $insertM->bindParam(':mTime',$mTime,PDO::PARAM_INT);
