@@ -3,7 +3,7 @@ session_start();
 include("../config/connect.php");
 $s_id = $_SESSION['id'];
 $user_id = filter_var(htmlentities($_POST['id']), FILTER_SANITIZE_NUMBER_INT);
-$fid = "";
+$fid = 0;
 $checkfollow_sql = "SELECT * FROM follow WHERE uf_one=:s_id AND uf_two=:user_id";
     $checkfollow = $conn->prepare($checkfollow_sql);
     $checkfollow->bindParam(':s_id',$s_id,PDO::PARAM_INT);
