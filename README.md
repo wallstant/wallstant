@@ -1,3 +1,16 @@
+> **Important to read!**
+> 
+> **Wallstant** built for about **4 years ago**, without a
+> clean code or using a modern technologies and with no OOP concept or specific design
+> pattern that makes the code understandable and reusable by other developers, that's why you may face a lot of bugs or issues with a specific feature in the project! because of the messive code that it's written with.
+> 
+> I was thinking about rebuild a new one with a new name, to be **fast,
+> secure, fully featured, and easy to develop and use**.. with the use of the modern technologies, frameworks, and concepts that make the project more reusable ...
+>  **but**!! I don't really started building it yet, that because of the time and my work .. but as soon as I can I'll start building it and till that moment! I promise it will be great :)
+> 
+> Thanks,
+> Munaf.
+
 # wallstant-the-open-source-PHP-social-network
 Create your own social network for free with Wallstant social network, easy to install and fast to use .. Make people connected
 
