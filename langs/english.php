@@ -101,7 +101,7 @@ function lang($txt){
     'onlyUcanCThis' => 'Only you can see this',
     'save' => 'Save',
     'cancel' => 'Cancel',
-    'uploadPhoto' => 'Uplaod',
+    'uploadPhoto' => 'Upload',
     'addToFavoritePages' => 'Add to favorite pages',
     'unFavoritePage' => 'Unfavorite page',
     'report' => 'Report',
